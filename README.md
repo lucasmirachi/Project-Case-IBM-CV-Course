@@ -1,9 +1,13 @@
 # Project Case: Not Quite a Self-Driving Car - Traffic Sign Classification
  
-![IBM Developer SKILLS NETWORK](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CV0101EN-SkillsNetwork/labs/FinalProject-SKO/images/IDSNlogo.png){width=20%}
+![IBM Developer SKILLS NETWORK](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CV0101EN-SkillsNetwork/labs/FinalProject-SKO/images/IDSNlogo.png){width=30%}
+
+This is the final project from the [Introduction to Computer Vision and Image Processing](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv) by IBM and Coursera.
+
+My app link: https://vision.skills.network/redirect.html?url=aHR0cHM6Ly90cmFmZmljLXNpZ24tY2xhc3NpZmljYXRpb24tYXBwLTYzYjMwZWZiNzQyN2ExODRkNWMyZDAwNS54N3Vxc25qcHlseC5ldS1nYi5jb2RlZW5naW5lLmFwcGRvbWFpbi5jbG91ZA==
 
 ## Project Overview
-In this course, you learned how to train and use custom classifiers. For the project in this module, you will develop a new custom classifier using one of the classification methods you learnt and then deploy it as a web app using Code Engine. There are various advantages to deploying your classifier. First, you can share your classifier with anyone in the world. They simply need to enter the URL of your model into any web browser. Second, you can showcase your web app in your portfolio and your potential future employers can interact with your project.
+In this course, you learned how to train and use custom classifiers. For the project in this module, you will develop a new custom classifier using one of the classification methods you learned and then deploy it as a web app using Code Engine. There are various advantages to deploying your classifier. First, you can share your classifier with anyone in the world. They simply need to enter the URL of your model into any web browser. Second, you can showcase your web app in your portfolio and your potential future employers can interact with your project.
 
 ## Project Scenario
 You have been employed as a Junior Data Scientist by Jokwu, a self-driving car start-up in Capetown, South Africa. Jokwu has created the hardware and parts of the car, and they are beginning to create sensors; the next step is to have a working model that identifies traffic signs. The project and product team have decided to start with stop signs - is it a stop sign or not?
